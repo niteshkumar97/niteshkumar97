@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Advance Javascript.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Documentation.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
+- 💬 Ask me about any designing related tool.
+- 📫 How to reach me: Gmail: @niteshsrivastava200@gmail.com , LinkedIn: @niteshkumar0201
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I want to spend some times on mountain.
